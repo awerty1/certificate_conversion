@@ -6,8 +6,8 @@ Script that place .crt and .key in .jks
 
 
 ## Scripts for environments
-1. certificate_conversion.sh - for mac && linux
-2. certificate_conversion.bat - for windows
+1. **certificate_conversion.sh** - for mac && linux
+2. **certificate_conversion.bat** - for windows
 
 ## Variables
 You need to fill these variables
